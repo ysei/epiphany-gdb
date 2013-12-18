@@ -1,3 +1,8 @@
+2013-12-18  Simon Cook  <simon.cook@embecosm.com>
+
+	* epiphany-tdep.c (epiphany_register_name): Correct fp/r11/r15 register
+	names.
+
 2013-09-03  Simon Cook  <simon.cook@embecosm.com>
 
 	* epiphany-tdep.c (epiphany_register_name): Update general purpose
